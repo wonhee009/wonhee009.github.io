@@ -1,9 +1,14 @@
 ---
 
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "first blog"
+
+excerpt: "first blog oh"
+
 date:   2021-07-21 18:32:37 +0900
-categories: jekyll update
+categories: blog
+
+tags: Blog
 
 ---
 
