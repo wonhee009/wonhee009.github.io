@@ -1,9 +1,8 @@
 ---
 
-layout: post
 title:  "first blog"
 
-excerpt: "first blog oh"
+excerpt: "first blog blog"
 
 date:   2021-07-21 18:32:37 +0900
 categories: blog
