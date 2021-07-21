@@ -1,13 +1,15 @@
 ---
 
-title:  "first blog"
+```bash
+title:  "github.io 블로그 시작하기"
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
-excerpt: "first blog blog"
-
-date:   2021-07-21 18:32:37 +0900
-categories: blog
-
-tags: Blog
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2019-04-13T08:06:00-05:00
+```
 
 ---
 
