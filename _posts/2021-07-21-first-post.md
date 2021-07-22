@@ -4,9 +4,9 @@ title: "test"
 
 exerpt: "test"
 
-categories: blog
+categories: iOS
 
-tags: blog
+tags: ARC iOS
 
 date: 2021-07-21 18:32:37
 
