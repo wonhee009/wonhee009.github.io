@@ -1,8 +1,8 @@
 ---
 
-title: "test"
+title: "test1"
 
-exerpt: "test"
+exerpt: "test1"
 
 categories: iOS
 
@@ -12,5 +12,5 @@ date: 2021-07-21 18:32:37
 
 ---
 
-Test
+테스트입니댜!
 
