@@ -5,7 +5,7 @@ title: "WebSockets with Swift - 1"
 exerpt: "Raywenderlich 'An Introduction to WebSockets' 따라하기"
 categories: WebSocket
 tags: WebSocket Swift Vapor
-last_modified_at: 2021-09-11 17:00:00
+date: 2021-09-11 17:00:00
 ---
 
 ## Intro
