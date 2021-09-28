@@ -141,7 +141,7 @@ reactor는 `mutation()`과 `reduce()` **두 단계로 action 스트림을 state 
 
 
 
-![reactorKit_2](/Users/user/Desktop/blog/wonhee009.github.io/assets/images/reactorKit_2.png)
+![reactorKit_2](/assets/images/reactorKit_2.png)
 
 View와 Reactor에서 일어나는 과정을 좀 더 자세하게 본다면 위의 다이어그램과 같다.
 
