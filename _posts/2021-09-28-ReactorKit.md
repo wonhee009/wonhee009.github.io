@@ -6,7 +6,7 @@ exerpt: "ReactorKit - Basic Concept"
 categories: ReactorKit
 tags: iOS swift apple rxSwift ReactorKit
 date: 2021-09-28 13:55:00
-Typora-root-url: ../
+t![reactorKit_1](/assets/images/reactorKit_1.png)ypora-root-url: ../
 ---
 
 ## Intro
@@ -21,7 +21,7 @@ rxSwift에 대한 이해가 떨어지지만 rxSwift에 대한 학습은 이후�
 
 ## Basic Concept
 
-![reactorKit_1](/Users/user/Desktop/blog/wonhee009.github.io/assets/images/reactorKit_1.png)
+![reactorKit_1](/assets/images/reactorKit_1.png)
 
 (ReactorKit을 살펴보면서 가장 중요한 다이어그램이라고 생각한다.)
 
