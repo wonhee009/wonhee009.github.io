@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_sticky: true
-title: "ReactorKit"
+title: "ReactorKit - 1"
 exerpt: "ReactorKit - Basic Concept"
 categories: ReactorKit
 tags: iOS swift apple rxSwift ReactorKit
@@ -86,7 +86,7 @@ func bind(reactor: ProfileViewReactor) {
 }
 ```
 
-- refreshButotn이 tap되면 `refresh`라는 action으로 바인딩한다.
+- refreshButton이 tap되면 `refresh`라는 action으로 바인딩한다.
 - reactor의 state 중 isFollowing을 바인딩한다.
 
 
