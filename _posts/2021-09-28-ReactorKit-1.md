@@ -103,11 +103,11 @@ reactor는 view에 의존성이 없어서 test가 쉽다.
 
 <br>
 
-`Reactor` 프로토콜을 채택해 reactor를 정의한다.
+- `Reactor` 프로토콜을 채택해 reactor를 정의한다.
 
-`Reactor` 프로토콜은 `Action`, `Mutation`, `State` 세 가지 타입이 필요하다.
+- `Reactor` 프로토콜은 `Action`, `Mutation`, `State` 세 가지 타입이 필요하다.
 
-`Reactor` 프로토콜은 `initialState`라는 프로퍼티가 필요하다.
+- `Reactor` 프로토콜은 `initialState`라는 프로퍼티가 필요하다.
 
 
 
