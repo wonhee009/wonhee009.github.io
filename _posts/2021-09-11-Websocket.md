@@ -30,13 +30,9 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 클라이언트는 일반 HTTP request에 `Upgrade: WebSocket`, `Connection: Upgrade` 라는 특별한 header와 인증과 같은 다른 필수 요청 데이터와 함께 보낸다.
 
-<br>
-
 서버는 `HTTP 101 스위칭 프로토콜 상태 코드`를 클라이언트에 다시 보낸다.
 
-`HTTP 101 스위치 프로토콜 상태 코드`와 함께 `Upgreade: WebSocket`, `Connection: Upgrade` header를 같이 보낸다.<br>
-
-
+`HTTP 101 스위치 프로토콜 상태 코드`와 함께 `Upgreade: WebSocket`, `Connection: Upgrade` header를 같이 보낸다.
 
 이런 과정을 거쳐 handshake가 완료되고 웹소켓 연결이 완료된다.
 
