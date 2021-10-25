@@ -22,7 +22,7 @@ date: 2021-10-04 20:22:00
 
 간단하게 카운터 앱을 만들어보자.
 
-
+<br>
 
 ### 명세서
 
@@ -218,7 +218,7 @@ Reactor에서 View를 구성하기 위해서는 `View` 프로토콜을 채택해
 final class ViewController: UIViewController, StoryboardView { ... }
 ```
 
-
+<br>
 
 rxSwift를 사용하므로 `var disposeBag = DisposeBag()`을 선언해준다.
 
@@ -277,7 +277,7 @@ func bind(reactor: CounterViewReactor) {
 
 역시 직접 구현해보는게 이해하는데 더 빠른거 같다.
 
-
+<br>
 
 구현하면서 느낀점은
 
@@ -287,7 +287,6 @@ func bind(reactor: CounterViewReactor) {
 
 - 한 화면에서 관리하는 `Action`, `State`가 많아지면 `bind()` 관리가 어려워지지 않을까?
 
-  
 
 다음에는 좀 더 복잡한 예제를 구현하면서 `ReactorKit`에 대해 느낀 점을 정리해봐야겠다.
 
