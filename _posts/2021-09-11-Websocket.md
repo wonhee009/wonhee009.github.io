@@ -42,7 +42,7 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 
 
-#### WebSocket Message
+### WebSocket Message
 
 웹소켓 프로토콜에서 데이터는 **프레임 시퀀스**를 사용하여 전송된다.
 
