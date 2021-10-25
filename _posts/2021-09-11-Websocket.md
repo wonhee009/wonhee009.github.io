@@ -8,7 +8,7 @@ tags: WebSocket Swift Vapor
 date: 2021-09-11 17:00:00
 ---
 
-## Intro
+# Intro
 
 [Raywenderlich](https://www.raywenderlich.com/13209594-an-introduction-to-websockets#toc-anchor-013) 로 웹소켓을 공부해보려 한다....ㅎ
 
@@ -24,7 +24,7 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 ---
 
-### WebSocket Connect
+## WebSocket Connect
 
 웹소켓 연결은 handshake에서 시작한다.
 
@@ -42,7 +42,7 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 
 
-### WebSocket Message
+## WebSocket Message
 
 웹소켓 프로토콜에서 데이터는 **프레임 시퀀스**를 사용하여 전송된다.
 
@@ -61,7 +61,7 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 ---
 
-### FIN
+# Outro
 
 웹소켓에 대해서 간단하게 알아봤다.
 
