@@ -43,7 +43,7 @@ View 레이어에는 **비즈니스 로직을 포함하지 않는다.**
 
 View에는 **action 스트림과 state 스트림을 어떻게 매핑할지를 정의**한다.
 
-
+<br>
 
 view를 정의하기 위해서 `View` protocol을 채택한다.
 
@@ -64,7 +64,7 @@ profileViewController.reactor = ProfileViewReactor()
 - ProfileViewController가 `View` 프로토콜을 채택하고 있으므로 `reactor` 프로퍼티가 생겼다.
 - `reactor`는 view의 밖에서 지정되므로 외부에서 profileViewController에 `reactor`를 지정한다.
 
-
+<br>
 
 `reactor` 프로퍼티가 바뀔때 `bind(reactor:)`가 호출된다.
 
