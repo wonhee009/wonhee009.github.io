@@ -101,7 +101,7 @@ Reactor의 가장 중요한 역할은 제어 흐름을 view에서 분리하는 �
 
 reactor는 view에 의존성이 없어서 test가 쉽다.
 
-
+<br>
 
 `Reactor` 프로토콜을 채택해 reactor를 정의한다.
 
@@ -139,7 +139,7 @@ Mutation은 Action과 State 사이를 연결해준다.
 
 reactor는 `mutation()`과 `reduce()` **두 단계로 action 스트림을 state 스트림으로 변환**한다.
 
-
+<br>
 
 ![reactorKit_2](/assets/images/reactorKit_2.png)
 
@@ -161,7 +161,7 @@ View와 Reactor에서 일어나는 과정을 좀 더 자세하게 본다면 위�
 func mutate(action: Action) -> Observable<Mutation>
 ```
 
-
+<br>
 
 비동기 작업이나 API 호출과 같은 side effect 작업은 해당 메서드에서 실행된다.
 
@@ -193,7 +193,7 @@ func mutate(action: Action) -> Observable<Mutation> {
 func reduce(state: State, mutation: Mutation) -> State
 ```
 
-
+<br>
 
 이 메서드는 순수 함수이다.
 
