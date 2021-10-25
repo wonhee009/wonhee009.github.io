@@ -12,7 +12,7 @@ date: 2021-09-11 17:00:00
 
 [Raywenderlich](https://www.raywenderlich.com/13209594-an-introduction-to-websockets#toc-anchor-013) 로 웹소켓을 공부해보려 한다....ㅎ
 
-웹소켓에 좋은 기억은 없지만...ㅋㅋㅋ 이번에는 잘 해봐야지...
+웹소켓에 좋은 기억은 없지만...ㅋㅋㅋ 이번에는 잘 해봐야지...<br>
 
 
 
@@ -28,17 +28,17 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 웹소켓 연결은 handshake에서 시작한다.
 
-클라이언트는 일반 HTTP request에 `Upgrade: WebSocket`, `Connection: Upgrade` 라는 특별한 header와 인증과 같은 다른 필수 요청 데이터와 함께 보낸다.
+클라이언트는 일반 HTTP request에 `Upgrade: WebSocket`, `Connection: Upgrade` 라는 특별한 header와 인증과 같은 다른 필수 요청 데이터와 함께 보낸다.<br>
 
 
 
 서버는 `HTTP 101 스위칭 프로토콜 상태 코드`를 클라이언트에 다시 보낸다.
 
-`HTTP 101 스위치 프로토콜 상태 코드`와 함께 `Upgreade: WebSocket`, `Connection: Upgrade` header를 같이 보낸다.
+`HTTP 101 스위치 프로토콜 상태 코드`와 함께 `Upgreade: WebSocket`, `Connection: Upgrade` header를 같이 보낸다.<br>
 
 
 
-이런 과정을 거쳐 handshake가 완료되고 웹소켓 연결이 완료된다.
+이런 과정을 거쳐 handshake가 완료되고 웹소켓 연결이 완료된다.<br>
 
 
 
@@ -48,7 +48,7 @@ Request-Response 패턴을 사용하는 HTTP와 달리 **웹소켓은 시점과 
 
 웹소켓 프레임은 HTTP 헤더와 비교할 수 있는 몇 가지 비트와 실제 메시지로 구성되어 있다.
 
-메시지가 너무 크면 여러 프레임을 사용해 보낼 수 있다.
+메시지가 너무 크면 여러 프레임을 사용해 보낼 수 있다.<br>
 
 
 
