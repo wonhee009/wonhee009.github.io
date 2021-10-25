@@ -12,7 +12,7 @@ date: 2021-09-11 17:00:00
 
 [Raywenderlich](https://www.raywenderlich.com/13209594-an-introduction-to-websockets#toc-anchor-013) 로 웹소켓을 공부해보려 한다....ㅎ
 
-웹소켓에 좋은 기억은 없지만...ㅋㅋㅋ 이번에는 잘 해봐야지...<br>
+웹소켓에 좋은 기억은 없지만...ㅋㅋㅋ 이번에는 잘 해봐야지...  
 
   
 
