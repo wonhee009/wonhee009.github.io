@@ -28,7 +28,7 @@ Redux와 달리 ReactorKit은 전역 앱 상태를 정의하지 않는다.
 
 ReactorKit은 전역 상태에서 사용되도록 강제하지 않으므로 App의 특정 기능에서만 ReactorKit을 사용할 수 있다.
 
-
+<br>
 
 `Action` -> `Mutation` -> `State` 흐름에는 전역 상태가 없다.
 
@@ -75,7 +75,7 @@ ControlEvent의 가장 일반적인 예는 UIButton.rx.tap이다.
 
 custom view를 UIButton 또는 UILabel로 처리하는 경우를 예로 들 수 있다.
 
-
+<br>
 
 ![reactorKit_3](/assets/images/reactorKit_3.png)
 
@@ -85,7 +85,7 @@ custom view를 UIButton 또는 UILabel로 처리하는 경우를 예로 들 수 
 
 User가 `MessageInputView`에서 보내기 버튼을 탭하면 텍스트가 `ChatViewController`로 전송되고 `ChatViewController`가 reactor의 action에 바인딩된다.
 
-
+<br>
 
 ```Swift
 extension Reactive where Base: MessageInputView {
@@ -112,15 +112,11 @@ messageInputView.rx.sendButtonTap
 
 ### Testing
 
-
-
-### Testing
-
 ReactorKit은 테스트를 위한 기능이 내장되어 있다.
 
 해당 기능을 사용해서 view와 reactor 모두 쉽게 테스트할 수 있다.
 
-
+<br>
 
 아래와 같은 것들을 테스트할 수 있다.
 
@@ -164,7 +160,7 @@ func testIsBookmarked() {
 }
 ```
 
-
+<br>
 
 가끔 state는 하나의 action에 의해 두 번 이상 변경된다.
 
