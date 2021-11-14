@@ -4,7 +4,7 @@ toc_sticky: true
 title: "ReactorKit - 1"
 exerpt: "ReactorKit - Basic Concept"
 categories: ReactorKit
-tags: iOS swift apple rxSwift ReactorKit
+tags: Swift rxSwift ReactorKit
 date: 2021-09-28 13:55:00
 t![reactorKit_1](/assets/images/reactorKit_1.png)ypora-root-url: ../
 ---

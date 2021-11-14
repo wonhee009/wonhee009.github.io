@@ -4,7 +4,7 @@ toc_sticky: true
 title: "RxSwift - ch.1 Hello RxSwift"
 exerpt: "RxSwift - ch.1 Hello RxSwift"
 categories: RxSwift
-tags: iOS swift apple rxSwift
+tags: Swift rxSwift
 date: 2021-10-23 17:00:00
 
 ---

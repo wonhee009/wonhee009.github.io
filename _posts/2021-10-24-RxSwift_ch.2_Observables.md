@@ -4,7 +4,7 @@ toc_sticky: true
 title: "RxSwift - ch.2 Observables"
 exerpt: "RxSwift - ch.2 Observables"
 categories: RxSwift
-tags: iOS swift apple rxSwift
+tags: Swift rxSwift
 date: 2021-10-24 23:00:00
 
 ---

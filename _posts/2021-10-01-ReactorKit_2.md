@@ -4,7 +4,7 @@ toc_sticky: true
 title: "ReactorKit - 2"
 exerpt: "ReactorKit - Advanced"
 categories: ReactorKit
-tags: iOS swift apple rxSwift ReactorKit
+tags: Swift rxSwift ReactorKit
 date: 2021-10-01 16:35:00
 ---
 

@@ -4,7 +4,7 @@ toc_sticky: true
 title: "RxSwift - ch.3 Subject"
 exerpt: "RxSwift - ch.3 Subject"
 categories: RxSwift
-tags: iOS swift apple rxSwift
+tags: Swift rxSwift
 date: 2021-10-25 23:00:00
 
 ---

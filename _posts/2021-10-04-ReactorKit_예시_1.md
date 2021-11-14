@@ -4,7 +4,7 @@ toc_sticky: true
 title: "ReactorKit 예시 - 1"
 exerpt: "ReactorKit example - 1"
 categories: ReactorKit
-tags: iOS swift apple rxSwift ReactorKit
+tags: Swift rxSwift ReactorKit
 date: 2021-10-04 20:22:00
 ---
 

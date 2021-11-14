@@ -4,7 +4,7 @@ toc_sticky: true
 title: "WebSockets with Swift - 1"
 exerpt: "Raywenderlich 'An Introduction to WebSockets' 따라하기"
 categories: WebSocket
-tags: WebSocket Swift Vapor
+tags: WebSocket
 date: 2021-09-11 17:00:00
 ---
 
