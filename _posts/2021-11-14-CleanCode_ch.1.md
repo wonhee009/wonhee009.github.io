@@ -4,7 +4,7 @@ toc_sticky: true
 title: "Clean Code - ch.1"
 exerpt: "Clean Code - ch.1"
 categories: CleanCode
-tags: iOS swift apple CleanCode
+tags: CleanCode
 date: 2021-11-14 13:00:00
 ---
 
